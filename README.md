@@ -10,7 +10,6 @@ fitness and diet app with flutter
 ![GoalInput](https://user-images.githubusercontent.com/105157479/191963683-b81fc86b-5e86-4a3a-9f48-e6ca2ffdf424.png)
 ![AgeWeightHeightInput](https://user-images.githubusercontent.com/105157479/191963657-1320a042-9113-4a0a-854d-5fca03aa8252.png)
 ![DietPage1](https://user-images.githubusercontent.com/105157479/191963658-e0225c21-6412-4fbb-90b7-2aadaed7950d.png)
-![DietPage2](https://user-images.githubusercontent.com/105157479/191963659-4939b63a-aa62-4903-9635-c5e88b553fa9.png)
 ![MealDetail](https://user-images.githubusercontent.com/105157479/191963692-812d15ff-1719-40cc-a9e5-1f70287b7e99.png)
 ![AddFoodDialog](https://user-images.githubusercontent.com/105157479/191963656-19ec1a7a-c688-4d5c-8bfd-1f90a6979026.png)
 ![HistoryPage](https://user-images.githubusercontent.com/105157479/191963688-ba0bdddf-21b9-435c-b13a-658d60cbb9bd.png)
